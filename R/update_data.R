@@ -12,8 +12,6 @@
 #' data if the new data is not already in the list, and saves the updated list back
 #' to the same RDS file using `saveRDS()`.
 #'
-#' @import Rolf
-#' @import dplyr
 #'
 #' @examples
 #' # Run the function to update the data
